@@ -12,6 +12,6 @@ This internship is divided into 5 stages, Stages A - E.
 
 This stage is divided into three (3) sections:
 
-* **Python in Machine Learning**: 
-* **Data Types, Data Wrangling, and Data Visualization**:
-* **Graded Quiz**:
+* **Python in Machine Learning**: This section introduced the basics of manipulating, pre-processing, cleaning, and wrangling data in Python and how to use it to solve data analysis and machine learning problems.
+* **Data Types, Data Wrangling, and Data Visualization**: In this lesson, I learned about the different types of data available to me as a data professional, how to handle them, and the processes involved in data wrangling. 
+* **Graded Quiz**: 
