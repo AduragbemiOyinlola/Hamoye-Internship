@@ -25,3 +25,4 @@ For the B Stage it was divided into six (6) lessons:
 * **Simple Linear Regression**: In this lesson, I learned about simple linear regression and the different assumptions made by simple linear regression models.
 * **Multiple Linear Regression**: Learned about multiple linear regression and the assumptions made by multiple linear regression.
 * **Penalization Methods**: In this lesson, I learned about regularization as a method to make complex models simpler by penalizing coefficients to reduce their magnitude, and variance in the training set and in turn, reduce overfitting in the model.
+* **Non-Linear Regression**: In this lesson, I learned about non-linear regression methods, model tuning and choosing parameters. Also, learnt the difference between parameters and hyperparameters.
