@@ -14,7 +14,7 @@ This stage is divided into three (3) sections:
 
 * **Python in Machine Learning**: This section introduced the basics of manipulating, pre-processing, cleaning, and wrangling data in Python and how to use it to solve data analysis and machine learning problems.
 * **Data Types, Data Wrangling, and Data Visualization**: In this lesson, I learned about the different types of data available to me as a data professional, how to handle them, and the processes involved in data wrangling. 
-* **Graded Quiz**: For this graded quiz, I worked on the ***FoodBalanceSheets_E_Africa_NOFLAG*** and used the dataset to answer various questions.
+* **GRADED QUIZ**: For this graded quiz, I worked on the ***FoodBalanceSheets_E_Africa_NOFLAG*** and used the dataset to answer various questions.
 
 ---
 
@@ -26,3 +26,4 @@ For the B Stage it was divided into six (6) lessons:
 * **Multiple Linear Regression**: Learned about multiple linear regression and the assumptions made by multiple linear regression.
 * **Penalization Methods**: In this lesson, I learned about regularization as a method to make complex models simpler by penalizing coefficients to reduce their magnitude, and variance in the training set and in turn, reduce overfitting in the model.
 * **Non-Linear Regression**: In this lesson, I learned about non-linear regression methods, model tuning and choosing parameters. Also, learnt the difference between parameters and hyperparameters.
+* **GRADED QUIZ**:
