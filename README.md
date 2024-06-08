@@ -27,3 +27,12 @@ For the B Stage it was divided into six (6) lessons:
 * **Penalization Methods**: In this lesson, I learned about regularization as a method to make complex models simpler by penalizing coefficients to reduce their magnitude, and variance in the training set and in turn, reduce overfitting in the model.
 * **Non-Linear Regression**: In this lesson, I learned about non-linear regression methods, model tuning and choosing parameters. Also, learnt the difference between parameters and hyperparameters.
 * **GRADED QUIZ**:
+
+Contributor | Twitter | Email
+-- | -- | -- |
+Aduragbemi Oyinlola | [AduragbemiOyin](www.twitter.com/AduragbemiOyin) | aduragbemioyinlola@gmail.com
+Monsurat Afoolabi | [techsis](www.twitter.com/techsis) | techsisinview@gmail.com
+
+- [ ] First task
+- [ ] Second task
+
